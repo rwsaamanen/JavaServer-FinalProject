@@ -45,8 +45,6 @@ user, student and course management. As a database I have used our schools Maria
 * Java
 * Springboot
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
-
 
 ## Getting Started
 
@@ -76,10 +74,7 @@ In client directory run this:
    spring.datasource.password='Your password'
    ```
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
-
 ## Contributing
 
-No contributes available.
+Contributions are not currently accepted or incorporated into the system's functionality.
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
