@@ -1,7 +1,6 @@
 # Java Server Programming Final Project
 
-This Final Project contains simple Font- and Backend. Software is a web application with a simple 
-user, student and course management. As a database I have used our schools MariaDB.
+This Final Project encompasses a straightforward front-end and back-end. It's a web-based application designed for managing users, students, and courses. The backbone of the application relies on MariaDB, the database system utilized by our school.
 
 ## Management system
 
