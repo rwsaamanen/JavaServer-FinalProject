@@ -69,6 +69,12 @@ In client directory run this:
    spring.datasource.username='Your username'
    spring.datasource.password='Your password'
    ```
+5. Run front in client root directory
+   ```sh
+   npm run dev
+   ```
+6. Run Java application in any IDE.
+
 
 ## Contributing
 
