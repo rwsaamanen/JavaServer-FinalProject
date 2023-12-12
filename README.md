@@ -27,9 +27,6 @@ user, student and course management. As a database I have used our schools Maria
     * Access to a complete user list and the ability to modify user roles.
 
 
-<p align="right">(<a href="#readme-top">Back to top</a>)</p>
-
-
 
 ## Built With
 
