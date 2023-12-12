@@ -1,0 +1,6 @@
+export { default as AdminBoard } from './admin/AdminBoard'
+export { default as Courses } from './courses/Courses'
+export { default as ManageUsers } from './manageusers/ManageUsers'
+export { default as Page } from './page/Page'
+export { default as Students } from './students/Students'
+export { default as UserBoard } from './user/UserBoard'
