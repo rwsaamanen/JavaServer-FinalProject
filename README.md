@@ -44,6 +44,11 @@ This Final Project encompasses a straightforward front-end and back-end. It's a 
 
 ## Getting Started
 
+### Default user with admin role to test application
+
+* Username: root
+* Password: root
+
 ### Prerequisites
 
 In client directory run this:
