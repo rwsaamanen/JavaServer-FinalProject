@@ -2,6 +2,10 @@
 
 This Final Project encompasses a straightforward front-end and back-end. It's a web-based application designed for managing users, students, and courses. The backbone of the application relies on MariaDB, the database system utilized by our school.
 
+## Demo Video about the application
+
+https://github.com/rwsaamanen/JavaServer-FinalProject/assets/98338543/b227d79d-aa08-43f2-92d6-897d705e7ff5
+
 ## Management system
 
 ### Account creation:
